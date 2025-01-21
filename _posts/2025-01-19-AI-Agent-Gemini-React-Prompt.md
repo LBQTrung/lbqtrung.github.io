@@ -2,7 +2,7 @@
 layout: post
 title: "Xây dựng AI Agent với React Prompt và Gemini API"
 date: 2025-01-19
-categories: [AI, Development, React]
+categories: [AI Agent, Prompt Engineering]
 tags: [AI, React Prompt, Gemini API]
 ---
 
