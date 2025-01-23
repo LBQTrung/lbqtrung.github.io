@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LangGraph Project 1: Phân tích văn bản"
-date: 2025-01-20
+date: 2025-01-22
 categories: [LangGraph, Project]
 tags: [AI, LangGraph, LangChain, Gemini]
 ---
