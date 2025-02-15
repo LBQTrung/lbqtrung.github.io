@@ -2,8 +2,8 @@
 layout: post
 title: "LLM Foundations 1: Pre-training NLP Models"
 date: 2025-02-12
-categories: [LangGraph, Project]
-tags: [AI, LangGraph, LangChain, Gemini]
+categories: [LLM, Foundations]
+tags: [LLM, Foundations, Theory]
 ---
 
 Chào mừng bạn đến với bài học đầu tiên! Hôm nay, chúng ta sẽ khám phá tiền huấn luyện – bước nền tảng giúp máy tính học hiểu và xử lý ngôn ngữ từ dữ liệu khổng lồ. Hãy cùng tìm hiểu cách các mô hình NLP hiện đại “đọc” và “hiểu” văn bản để mở ra cánh cửa cho những ứng dụng AI thú vị.
