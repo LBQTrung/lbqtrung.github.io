@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LLM Foundations 1: Pre-training NLP Models"
-date: 2025-02-12
+date: 2025-02-15
 categories: [LLM, Foundations]
 tags: [LLM, Foundations, Theory]
 ---
